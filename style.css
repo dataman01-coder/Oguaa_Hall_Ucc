@@ -9,6 +9,10 @@ body{
     background: #a1c3ff;
 }
 
+main{
+    width:80%;
+    margin:auto;
+}
 .container {
     display:flex;
     justify-content:space-between;
@@ -42,12 +46,13 @@ body{
     background: #0a51cc;
     height:100dvh;
     color:#fff;
+    padding:0 30px;
  
 }
 
 .hero img{
-    width:100%;
-    height:auto;
+    width:80%;
+    height:85%;
 }
 
 .hero, .logo{
