@@ -79,6 +79,7 @@ body{
 
 .boxes{
     display:flex;
-    justify-content:space-evenly;
+    gap:30px;
+    justify-content:center;
 }
 
